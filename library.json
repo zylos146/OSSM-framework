@@ -1,0 +1,17 @@
+{
+	"name": "OSSM-framework",
+	"version": "0.0.1",
+	"keywords": "",
+	"description": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zylos146/OSSM-framework"
+	},
+	"build": {
+		"includeDir": "."
+	},
+	"license": "MIT",
+	"homepage": "https://lvgl.io",
+	"frameworks": "*",
+	"platforms": "*"
+}
